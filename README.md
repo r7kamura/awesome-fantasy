@@ -8,6 +8,7 @@ Let's make this the awesomest fantasy :sparkles: :gem: :sparkles:
 
 ### Languages
 - [Elixir](https://github.com/elixir-lang/elixir) - Programming language that runs on Erlang VM
+- [Crystal](https://github.com/manastech/crystal) - Crystal-blessed programming language
 
 ### HTTP Clients
 - [HTTPotion](https://github.com/myfreeweb/httpotion) - HTTP Client for Elixir
