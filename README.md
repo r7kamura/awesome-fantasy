@@ -20,5 +20,8 @@ Let's make this the awesomest fantasy :sparkles: :gem: :sparkles:
 - [Meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [Phoenix](https://github.com/phoenixframework/phoenix) - Web framework for Elixir
 
+### Database
+- [Titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database
+
 ### Utilities
 - [Poison](https://github.com/devinus/poison) - Pure Elixir JSON library
