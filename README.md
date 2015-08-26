@@ -17,6 +17,7 @@ Let's make this the awesomest fantasy :sparkles: :gem: :sparkles:
 - [Mithril](https://github.com/lhorie/mithril.js) - Client-side MVC framework for JavaScript
 
 ### Web Frameworks
+- [Meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [Phoenix](https://github.com/phoenixframework/phoenix) - Web framework for Elixir
 
 ### Utilities
